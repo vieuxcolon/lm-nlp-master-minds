@@ -133,8 +133,6 @@ FINAL TAG PREDICTION
 
 ##  Confusion Matrix
 
-*(Add your generated plot here)*
-
 ```markdown
 ![Confusion Matrix](plots/confusion_matrix.png)
 ```
@@ -192,5 +190,3 @@ However:
 > The final system achieves **~88% accuracy**, improving substantially over baseline approaches and demonstrating the effectiveness of hierarchical classification with traditional machine learning techniques.
 
 ---
-* or generate a **visual dashboard (plots + metrics summary)**
-* or help you compute the **true end-to-end accuracy (non-estimated)**
