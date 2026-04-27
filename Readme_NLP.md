@@ -40,7 +40,7 @@ This improves accuracy by reducing class confusion.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```mermaid
 flowchart TD
@@ -104,11 +104,11 @@ android, apple (ios + iphone + objective-c)
 
 ##  Results
 
-### 🔹 Level 1 (Domain Classification)
+###  Level 1 (Domain Classification)
 
 * Accuracy: **96.4%**
 
-### 🔹 Level 2 Models
+###  Level 2 Models
 
 | Domain   | Accuracy |
 | -------- | -------- |
@@ -200,7 +200,7 @@ jupyter notebook
 
 ---
 
-## 🧪 Example Predictions
+##  Example Predictions
 
 ```
 Input: "how to use entity framework in mvc c#"
@@ -221,7 +221,7 @@ Output: python
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 * Accuracy
 * Precision / Recall / F1-score
@@ -246,7 +246,7 @@ Output: python
 
 ---
 
-## 📄 License
+##  License
 
 This project is for academic use.
 
